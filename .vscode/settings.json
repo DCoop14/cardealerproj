@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "cardealer erd",
+            "connectString": "postgres://jypbitjm:6vl5qzVHy3BPXohAyiP1Ry-Te68c-D6d@ruby.db.elephantsql.com/jypbitjm"
+        }
+    ]
+}
